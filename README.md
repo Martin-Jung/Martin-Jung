@@ -7,6 +7,7 @@ I am a conservation and environmental scientist working at [IIASA](https://iiasa
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Jung&layout=compact&langs_count=16&theme=light"/>
 <div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Martin-Jung)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!--
 **Martin-Jung/Martin-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
