@@ -64,7 +64,7 @@ I'm a conservation and environmental scientist at [IIASA](https://iiasa.ac.at/st
 
 [![Website](https://img.shields.io/badge/🌐_Website-martinjung.eu-2E9E4F?style=flat-square)](https://www.martinjung.eu)
 [![IIASA](https://img.shields.io/badge/🏛️_IIASA-Profile-003DA5?style=flat-square)](https://iiasa.ac.at/staff/martin-jung)
-[![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-Publications-4285F4?style=flat-square)]([[https://scholar.google.com/citations?user=N5FsEjMAAAAJ](https://scholar.google.com/citations?user=qa-Dz6QAAAAJ)](https://scholar.google.com/citations?user=qa-Dz6QAAAAJ))
+[![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-Publications-4285F4?style=flat-square)](https://scholar.google.com/citations?user=qa-Dz6QAAAAJ)
 [![Bluesky](https://img.shields.io/badge/🦋_Bluesky-martinjung.eu-0285FF?style=flat-square)](https://bsky.app/profile/martinjung.eu)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-jungmartin-0A66C2?style=flat-square)](https://www.linkedin.com/in/jungmartin/)
 
