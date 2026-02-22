@@ -42,21 +42,6 @@ I'm a conservation and environmental scientist at [IIASA](https://iiasa.ac.at/st
 
 ---
 
-## 🚀 Featured Repositories
-
-> Projects I'm actively developing or maintaining
-
-| 🗂️ Project | 📝 Description | 🔤 Lang |
-|-----------|----------------|---------|
-| [🌍 NatureMapCode](https://github.com/Martin-Jung/NatureMapCode) | Global conservation prioritisation — biodiversity, carbon & water | R |
-| [🌿 Habitatmapping](https://github.com/Martin-Jung/Habitatmapping) | Global habitat type maps via Google Earth Engine | JS |
-| [🔧 LecoS](https://github.com/Martin-Jung/LecoS) | QGIS plugin for land cover & landscape ecology analysis | Python |
-| [🇪🇺 EUMTA](https://github.com/Martin-Jung/EUMTA) | Mean Target Achievement for EU biodiversity 2030 targets | R/HTML |
-| [🌱 EUPNVMapping](https://github.com/Martin-Jung/EUPNVMapping) | European potential natural vegetation mapping | R |
-| [📈 IPBES Nexus](https://github.com/Martin-Jung/IPBES_NexusRelativeScenarioTrends) | Biodiversity indicator scenario trends for IPBES Nexus Assessment | R |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
