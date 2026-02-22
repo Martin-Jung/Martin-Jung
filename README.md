@@ -32,6 +32,10 @@ I'm a conservation and environmental scientist at [IIASA](https://iiasa.ac.at/st
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Tools & Platforms**
 
@@ -46,8 +50,11 @@ I'm a conservation and environmental scientist at [IIASA](https://iiasa.ac.at/st
 
 <div align="center">
   <a href="https://github.com/Martin-Jung/">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Martin-Jung&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Jung&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Martin-Jung&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Martin-Jung/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martin-Jung&theme=default" alt="GitHub Profile Summary"/>
   </a>
 </div>
 
@@ -58,9 +65,11 @@ I'm a conservation and environmental scientist at [IIASA](https://iiasa.ac.at/st
 [![Website](https://img.shields.io/badge/🌐_Website-martinjung.eu-2E9E4F?style=flat-square)](https://www.martinjung.eu)
 [![IIASA](https://img.shields.io/badge/🏛️_IIASA-Profile-003DA5?style=flat-square)](https://iiasa.ac.at/staff/martin-jung)
 [![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-Publications-4285F4?style=flat-square)](https://scholar.google.com/citations?user=N5FsEjMAAAAJ)
+[![Bluesky](https://img.shields.io/badge/🦋_Bluesky-martinjung.eu-0285FF?style=flat-square)](https://bsky.app/profile/martinjung.eu)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-jungmartin-0A66C2?style=flat-square)](https://www.linkedin.com/in/jungmartin/)
 
 ---
 
 <div align="center">
-  <i>🌍 Working toward a world where nature and people thrive together</i>
+  <i>🦆 Fixing bugs and saving ducks</i>
 </div>
